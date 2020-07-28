@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/courses_react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/courses_react/static/js/main.268d75c4.chunk.js",
+    "main.js.map": "/courses_react/static/js/main.268d75c4.chunk.js.map",
+    "runtime-main.js": "/courses_react/static/js/runtime-main.abdc53a9.js",
+    "runtime-main.js.map": "/courses_react/static/js/runtime-main.abdc53a9.js.map",
+    "static/css/2.37865b2a.chunk.css": "/courses_react/static/css/2.37865b2a.chunk.css",
+    "static/js/2.dd1b299d.chunk.js": "/courses_react/static/js/2.dd1b299d.chunk.js",
+    "static/js/2.dd1b299d.chunk.js.map": "/courses_react/static/js/2.dd1b299d.chunk.js.map",
+    "index.html": "/courses_react/index.html",
+    "precache-manifest.af43f289718c86ebb267f8fc76ef29c3.js": "/courses_react/precache-manifest.af43f289718c86ebb267f8fc76ef29c3.js",
+    "service-worker.js": "/courses_react/service-worker.js",
+    "static/css/2.37865b2a.chunk.css.map": "/courses_react/static/css/2.37865b2a.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/courses_react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dd1b299d.chunk.js.LICENSE.txt": "/courses_react/static/js/2.dd1b299d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/courses_react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abdc53a9.js",
+    "static/css/2.37865b2a.chunk.css",
+    "static/js/2.dd1b299d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.268d75c4.chunk.js"
+  ]
+}
